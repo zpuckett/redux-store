@@ -27,7 +27,7 @@ E-commerce website that allows user to login and purchase items, also see their 
 
 
 ## Gif Walkthrough
-[!](client/public/images/redux.gif)
+![ScreenShot](client/public/redux.gif)
 
 
 ## Technologies Used
