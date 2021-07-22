@@ -143,9 +143,9 @@ db.once('open', async () => {
   });
 
   await User.create({
-    firstName: 'Elijah',
-    lastName: 'Holt',
-    email: 'eholt@testmail.com',
+    firstName: 'Zach',
+    lastName: 'Test',
+    email: 'ztest@testmail.com',
     password: 'password12345'
   });
 
