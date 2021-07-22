@@ -1,11 +1,6 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
-import { ApolloProvider } from '@apollo/react-hooks';
-import { ApolloClient, InMemoryCache } from '@apollo/client';
-// import {
-//   ApolloClient,
-//   ApolloProvider,
-// } from '@apollo/client';
+import {ApolloProvider, ApolloClient, InMemoryCache } from '@apollo/client';
 
 import { Provider } from 'react-redux';
 import store from './utils/store';
